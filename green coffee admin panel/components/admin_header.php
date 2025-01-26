@@ -2,6 +2,7 @@
     <div class="flex">
         <a href="dashboard.php" class="logo"><img src="../img/logo.jpg"></a>
         <nav class ="navbar">
+             <a href="index.php">home</a>
             <a href="dashboard.php">dashboard</a>
             <a href="add_products.php">add product</a>
             <a href="view_product.php">view product</a>
